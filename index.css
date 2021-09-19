@@ -1,0 +1,53 @@
+h1{
+    color: saddlebrown;
+}
+
+h3{
+    color: red;
+}
+
+.a{
+    color: #660000;
+
+}
+
+.b{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.c{
+    font-weight: bold;
+    background-color: yellow;
+
+}
+
+.d{
+    text-decoration: underline;
+}
+
+.e{
+    color: #660000;
+    letter-spacing: 5px;
+
+}
+
+#a1{
+    color:#86513c;
+}
+
+#a2{
+    color: #86513c;
+
+}
+
+.anchor{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+}
+
+/* .img{ */
+    margin-left: 40%;
+/* } */
